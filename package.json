@@ -1,0 +1,47 @@
+{
+  "name": "floodle-desktop",
+  "version": "1.0.0",
+  "description": "Floodle Desktop — soft power of flat technology",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "author": "Timixx",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^42.0.1",
+    "electron-builder": "^24.0.0"
+  },
+  "dependencies": {
+    "electron-updater": "^6.0.0"
+  },
+  "build": {
+    "appId": "com.floodle.app",
+    "productName": "Floodle",
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "logo4.png",
+      "publish": ["github"]
+    },
+    "mac": {
+      "target": "dmg",
+      "icon": "logo4.png",
+      "publish": ["github"]
+    },
+    "linux": {
+      "target": "AppImage",
+      "icon": "logo4.png",
+      "publish": ["github"]
+    },
+    "files": [
+      "main.js",
+      "logo4.png",
+      "hotkeys.html",
+      "node_modules/**/*"
+    ]
+  }
+}
