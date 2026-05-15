@@ -116,19 +116,3 @@
 | `Ctrl + -` | Zoom out |
 
 ---
-
-## 🔧 Tray Features
-
-Right-click the Floodle icon in system tray:
-
-┌─────────────────────────┐
-│ 🍜 Open Floodle │
-│ 📝 New Note │
-│ 💬 Unread Messages (3) │
-│ ─────────────────────── │
-│ ⚙️ Settings │
-│ 🔄 Check for Updates │
-│ ❓ About │
-│ ─────────────────────── │
-│ 🚪 Quit │
-└─────────────────────────┘
