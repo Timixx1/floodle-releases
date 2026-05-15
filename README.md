@@ -60,7 +60,6 @@
 | Platform | Download Link | Size |
 |----------|---------------|------|
 | **Windows 10/11** | [Floodle-Setup-1.0.1.exe](https://github.com/Timixx1/floodle-releases/releases/latest/download/Floodle-Setup-1.0.1.exe) | ~85 MB |
-| **Portable (.zip)** | [Floodle-Portable-1.0.1.zip](https://github.com/Timixx1/floodle-releases/releases/latest/download/Floodle-Portable-1.0.1.zip) | ~90 MB |
 
 ### System Requirements
 - Windows 10 version 1809 or later / Windows 11
@@ -68,29 +67,6 @@
 - 200MB free disk space
 - Internet connection for first-time setup
 
----
-
-## 🖼️ Screenshots
-
-<div align="center">
-  <img src="https://floodle.site/assets/screenshots/desktop-main.png" alt="Main Window" width="70%">
-  <br>
-  <em>Main Application Window</em>
-  
-  <br><br>
-  
-  <img src="https://floodle.site/assets/screenshots/desktop-tray.png" alt="System Tray" width="300">
-  <br>
-  <em>System Tray Integration</em>
-  
-  <br><br>
-  
-  <img src="https://floodle.site/assets/screenshots/desktop-notification.png" alt="Native Notifications" width="300">
-  <br>
-  <em>Windows Native Notifications</em>
-</div>
-
----
 
 ## 🔧 Installation
 
