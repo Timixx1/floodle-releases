@@ -84,18 +84,6 @@
 
 4. **Launch Floodle** from Start Menu or Desktop
 
-### Portable Version (No Install)
-
-1. **Download** the portable ZIP:  
-   [Floodle-Portable-1.0.1.zip](https://github.com/Timixx1/floodle-releases/releases/latest/download/Floodle-Portable-1.0.1.zip)
-
-2. **Extract** to any folder (e.g., `C:\Floodle` or USB drive)
-
-3. **Run** `Floodle.exe`
-
-> 💡 **Tip:** Portable version keeps all your data in the same folder — perfect for USB drives!
-
----
 
 ## 🚀 First Launch
 
